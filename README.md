@@ -1,9 +1,3 @@
----
-description: >-
-  A versatile and powerful music bot for Discord that brings rhythm and melody
-  to your server!
----
-
 # 🏠 Home
 
 <figure><img src=".gitbook/assets/54.png" alt="banner"><figcaption></figcaption></figure>
