@@ -7,3 +7,4 @@
   * [Websocket](wiki/websocket.md)
   * [Interface](wiki/interface.md)
 * [FAQ](faq.md)
+* [Installation](installation.md)
