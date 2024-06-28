@@ -1,4 +1,4 @@
-# FAQ
+# ❓ FAQ
 
 ### 1.Why do I have `Invalid config [MissingKey]` error log?
 

@@ -4,7 +4,9 @@ description: >-
   to your server!
 ---
 
-# Wace | Music
+# 🏠 Home
+
+<figure><img src=".gitbook/assets/54.png" alt="banner"><figcaption></figcaption></figure>
 
 ## 💎 Features
 
@@ -22,6 +24,7 @@ description: >-
 * Play Song Using File
 * Cooldown System
 * Shard System
+* Auto Mod
 * Auto Reconnect
 * Auto Pause/Resume
 * Auto Complete Search
